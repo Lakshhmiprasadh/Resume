@@ -1,0 +1,33 @@
+img
+{
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+body
+{
+  background-color:#EAF6F6;
+
+}
+p
+{
+  color:#f08a5d;
+}
+h1
+{
+  color:#46b3e6;
+}
+h2
+{
+  color:#66BFBF;
+}
+hr
+{
+  border-style=none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 8%;
+ }
